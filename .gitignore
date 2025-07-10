@@ -1,0 +1,17 @@
+# Wirtualne środowisko
+venv/
+
+# Pliki cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Foldery generowane przez PyInstaller
+/dist/
+/build/
+*.spec
+
+# Foldery IDE
+.vscode/
+.idea/
