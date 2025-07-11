@@ -27,14 +27,15 @@ The project is optimized for performance by offloading computationally intensive
 
 ---
 
-## Technologies Used
 
-- **Language:** Python 3
-- **Graphical User Interface (GUI):** PySide6 (The official Python bindings for Qt)
-- **Signal Processing & Computation:** NumPy, SciPy
-- **Data Visualization:** Matplotlib
-- **Audio I/O:** SoundDevice
-- **Application Packaging:** PyInstaller
+## License & Acknowledgements
 
----
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+This application is built using several third-party libraries, each with its own license. The full license texts are included in the `LICENSES` directory.
+
+- **Qt for Python (PySide6):** Licensed under the LGPL v3.
+- **NumPy & SciPy:** Licensed under the BSD 3-Clause License.
+- **Matplotlib:** Licensed under a PSF-style license.
+- **SoundDevice:** Licensed under the MIT License.
 
